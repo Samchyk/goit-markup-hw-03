@@ -1,0 +1,202 @@
+body {
+  font-family: roboto;
+}
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo-header {
+  font-family: Raleway;
+  
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1, 2;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 14;
+  letter-spacing: 0.02em;
+
+  color: #212121;
+}
+.nav-link:hover {
+  color: #2196f3;
+}
+
+.link-kontakt {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.link-kontakt:hover {
+  color: #2196f3;
+}
+
+.examples {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip-path: inset(50%);
+  margin: -1px;
+}
+
+.button {
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121
+}
+.button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.item-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.item-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+
+.footer-logo {font-family: Raleway;
+font-style: normal;
+font-weight: 700;
+font-size: 1.19;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+color: #2196F3;}
+
+.footer {background-color: #2F303A;;}
+
+.footer-link {
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #FFFFFF;}
+
+.footer-mail {font-weight: 500;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);}
+
+.footer-tel {font-weight: 500;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);}
+
+
+.hero {background-color: #2F303A;}
+.hero-title {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;}
+
+.hero-btn {
+font-weight: 700;
+font-size: 16px;
+line-height: 1.87;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+background-color: #2196F3;}
+
+.benefits {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip-path: inset(50%);
+  margin: -1px;}
+
+  .list-subtitle {
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #212121;}
+
+.list-text {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #757575;}
+
+.subject {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;}
+
+.command {font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;}
+
+
+.comand-text {font-weight: 400;
+font-size: 16px;
+line-height: 1,18;
+letter-spacing: 0.03em;
+color: #757575;}
+
+.command-name {font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+letter-spacing: 0.03em;
+color: #212121;
+}
